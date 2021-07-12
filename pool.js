@@ -4,7 +4,7 @@ const pool=mysql.createPool({
     port:3306,
     user:"root",
     password:"",
-    database:"emoi",
+    database:"hp5188",
     connectionLimit:"20"
 });
 
